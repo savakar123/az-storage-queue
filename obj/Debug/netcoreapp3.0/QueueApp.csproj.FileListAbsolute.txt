@@ -1,0 +1,16 @@
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.exe
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.deps.json
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.runtimeconfig.json
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.runtimeconfig.dev.json
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.dll
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\QueueApp.pdb
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.csprojAssemblyReference.cache
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.AssemblyInfoInputs.cache
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.AssemblyInfo.cs
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.dll
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.pdb
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Queue.dll
+C:\templates\QueueApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\templates\QueueApp\obj\Debug\netcoreapp3.0\QueueApp.csproj.CopyComplete
